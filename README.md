@@ -102,3 +102,8 @@ classDiagram
    - Endpoint: `GET /api/tarefas/atribuidas/{nome}`
    - Parâmetro de caminho: `nome` (Nome da pessoa)
    - Retorna uma lista de todas as tarefas atribuídas a uma pessoa específica.
+
+## URL para acesso publico
+
+Enquanto o projeto estiver disponivel no Railway ele poderá ser acessado a partir da seguinte url:
+https://projetorailway-production.up.railway.app/swagger-ui/index.html
